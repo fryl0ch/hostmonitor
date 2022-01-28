@@ -1,0 +1,1 @@
+jar cmvf manifest HostMonitor.jar classes src
