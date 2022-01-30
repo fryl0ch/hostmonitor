@@ -1,6 +1,6 @@
 # hostmonitor
 
-v1.0.0
+v0.1.1
 
 This was a project I did back in 2004 that I recently re-discovered from an old hard drive.
 
