@@ -1,7 +1,7 @@
 /*
 
 hostmonitor - ping sites and get emails when they go down
-Copyright (C) 2022 Eric Fry
+Copyright (C) 2004-2022 Eric Fry
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
